@@ -1,4 +1,4 @@
-# SQL exercise from hackerrank (MS SQL)
+# SQL exercises from hackerrank (MS SQL)
 
 1. Revising the Select Query I
 2. Revising the Select Query II
