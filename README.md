@@ -1,3 +1,10 @@
+# SQL for Data Analysis - with SQL Server (Udemy Course)
+
+SELECT - ex 1, 2, 3
+Aliasing columns - ex 4, 5, 6
+Selecting custom values (extra columns) - ex 7, 8
+
+
 # SQL exercises from hackerrank (MS SQL)
 
 1. Revising the Select Query I
